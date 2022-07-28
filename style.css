@@ -339,7 +339,7 @@ a:hover {
 
 .navbar-toggle {
     margin: 10px 10px 0 0;
-    border: 0px;
+    border: 0;
 }
 
 .navbar-toggle:hover {
@@ -777,7 +777,9 @@ h4 {
 .tc-white {
     color: #F3976C!important;
 }
-
+.text-white{
+    color: white !important;
+}
 .btn-atomic-tangerine {
     background: #F3976C;
     color: #FFFFFF!important;
